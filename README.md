@@ -22,7 +22,7 @@ git clone https://github.com/vijaythecoder/awesome-claude-agents.git
 
 **macOS/Linux:**
 ```bash
-ln -sf "$(pwd)/awesome-claude-agents" ~/.claude/awesome-claude-agents
+ln -sf "$(pwd)/awesome-claude-agents/agents" ~/.claude/agents
 ```
 
 **Windows (PowerShell):**
